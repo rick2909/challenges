@@ -1,0 +1,17 @@
+.header {
+	margin: 0px 0px 0px 0px;
+  	padding: 0px 0px 0px 0px;
+	background-color: $darkgrey;
+	color: $white;
+	width: 100%;
+	height: 400px;
+	section{
+		width: 60%;
+		padding: 250px 110px 50px 75px;
+		p{
+		margin: 0px;
+		font-size: 1.7em;
+		font-weight: bold;
+		}
+	}
+}
